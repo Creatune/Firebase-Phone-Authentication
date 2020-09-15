@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1047456492058",
+    "firebase_url": "https://rozrjoshi.firebaseio.com",
+    "project_id": "rozrjoshi",
+    "storage_bucket": "rozrjoshi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047456492058:android:5bada41de175b6a24b3fa3",
+        "android_client_info": {
+          "package_name": "com.rjoshi.rjoshiroz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047456492058-dlmevdcss3c5tfm42slrmb2kb8615jl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMVdM6co5MabKyCOEQthYixSMoMoxkedQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047456492058-dlmevdcss3c5tfm42slrmb2kb8615jl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
